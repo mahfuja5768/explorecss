@@ -1,0 +1,45 @@
+.img{
+    background-image: url(images/m\ word.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 20px;
+}
+
+.para{
+    width: 300px;
+    margin: 0 auto;
+    padding: 10px;
+    border: 22px solid brown;
+    margin-top: 20px;
+    box-shadow: 10px 10px 20px;
+    border-radius: 10px;
+}
+
+.para-2{
+    width: 500px;
+}
+.para-3{
+    width: 300px;
+    height: 300px;
+    border-radius: 150px;
+    padding: 50px;
+    border: 2px solid brown;
+    margin: 40px auto;
+    background-image: url(images/m\ word.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+    padding: 20px;
+}
+
+.para-3 p{
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+.para-3 h3{
+    text-align: center;
+}
